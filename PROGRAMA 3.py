@@ -2,7 +2,7 @@ def crecimiento(x,y,z):
     pf=z+(z*(y/100)*x)
     return pf
 A=25000000
-B=18900000
+B=18900000 
 tiempo=0
 while A>=B:
     tiempo+=1
